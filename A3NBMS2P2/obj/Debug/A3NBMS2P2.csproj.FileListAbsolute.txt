@@ -1,0 +1,22 @@
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csprojAssemblyReference.cache
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csproj.CoreCompileInputs.cache
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe.config
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.pdb
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.exe
+C:\Prog1781\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.pdb
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe.config
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.pdb
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csprojAssemblyReference.cache
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csproj.CoreCompileInputs.cache
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.exe
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.pdb
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe.config
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.exe
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\bin\Debug\A3NBMS2P2.pdb
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csproj.AssemblyReference.cache
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csproj.SuggestedBindingRedirects.cache
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.csproj.CoreCompileInputs.cache
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.exe
+D:\Conestoga_College_Soft\Winter2021_Term_1\C#_Prog_1781\project2\A3NBMS2P2\A3NBMS2P2\obj\Debug\A3NBMS2P2.pdb
